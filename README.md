@@ -15,7 +15,7 @@ cookies格式如下：
 
 ![image](https://github.com/user-attachments/assets/d98cf564-9998-4fd8-bb3a-e6b84f9b1b2d)
 
-复制内容覆盖到youtube.com_cookies.txt文件内
+复制的cookies覆盖到youtube.com_cookies.txt文件内
 
 2、复制视频id
 ![image](https://github.com/user-attachments/assets/05e80ffb-5cef-47e0-8b44-08b1aabc7f79)
