@@ -23,7 +23,7 @@ cookies格式如下：
 id存放到mission.txt，多个id以回车换行
 
 3、运行打包好的exe  ytb.exe
-
+* 注：youtube.com_cookies.txt、mission.txt、ytb.exe 要放到同一个文件夹下。
 
 ## 源码运行
 
