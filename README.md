@@ -1,34 +1,34 @@
 ### ytb_handling
-爬取youtube视频
+Crawl YouTube videos
 
-## 快速开始
+##Quick Start
 
-1、复制youtube cookies
-先下载Google插件 Cookie-Editor
-
-
-按照如下步骤复制cookies 
-![image](https://github.com/user-attachments/assets/43f17917-4de5-41cd-a27f-8ede499eef04)
+1. Copy YouTube cookies
+Download the Google plugin Cookie Editor first
 
 
-cookies格式如下：
+Follow the steps below to copy cookies
+![image]( https://github.com/user-attachments/assets/43f17917-4de5-41cd-a27f-8ede499eef04 )
 
-![image](https://github.com/user-attachments/assets/d98cf564-9998-4fd8-bb3a-e6b84f9b1b2d)
 
-复制的cookies覆盖到youtube.com_cookies.txt文件内
+The cookie format is as follows:
 
-2、复制视频id
-![image](https://github.com/user-attachments/assets/05e80ffb-5cef-47e0-8b44-08b1aabc7f79)
+![image]( https://github.com/user-attachments/assets/d98cf564-9998-4fd8-bb3a-e6b84f9b1b2d )
 
-id存放到mission.txt，多个id以回车换行
+The copied cookies overwrite the file youtube.com_comokies. txt
 
-3、运行打包好的exe  ytb.exe
-* 注：youtube.com_cookies.txt、mission.txt、ytb.exe 要放到同一个文件夹下。
+2. Copy video ID
+![image]( https://github.com/user-attachments/assets/05e80ffb-5cef-47e0-8b44-08b1aabc7f79 )
 
-## 源码运行
+Store the ID in mission-txt, use carriage return to wrap multiple IDs
 
-1、复制cookies如上
-2、复制视频id如上
-3、安装依赖
+3. Run the packaged exe ytb.exe
+*Note: YouTube.com/cookies. txt, mission. txt, and ytb.exe should be placed in the same folder.
+
+##Source code running
+
+1. Copy cookies as above
+2. Copy the video ID as above
+3. Install dependencies
 yt_dlp、http.cookiejar、time、logging、random
-4、运行Python代码
+4. Run Python code
